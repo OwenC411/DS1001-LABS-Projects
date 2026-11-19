@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/OwenClarke_venv/bin/python",
+    "python.terminal.activateEnvironment": true
+}
